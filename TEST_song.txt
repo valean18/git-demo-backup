@@ -6,7 +6,3 @@ it's an 4 example of text file.
 it's an 5 example of text file.
 it's an 6 example of text file.
 
-it's an 7 example of text file.
-it's an 8 example of text file.
-it's an 9 example of text file.
-
