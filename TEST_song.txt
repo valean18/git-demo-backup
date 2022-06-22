@@ -2,11 +2,8 @@ it's an example of text file.
 it's an 2 example of text file.
 it's an 3 example of text file.
 
-<<<<<<< HEAD
-
-
-=======
 it's an example of text file.
 it's an 2 example of text file.
 it's an 3 example of text file.
->>>>>>> feature
+
+for tag only
